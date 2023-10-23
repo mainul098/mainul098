@@ -3,6 +3,7 @@
        https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/
   -->
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />  
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge" />  
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge" />  
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />  
   <img alt="Golang" src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge" />  
