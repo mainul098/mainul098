@@ -15,11 +15,11 @@
   <img alt="Mac OS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge" />  
 </p>
 
-## Hello 👋, Nice to see you! 
+# Hello 👋, Nice to see you! 
 
 With nearly a decade in software engineering, I have a proven record of developing and scaling software solutions for modern businesses. My passion lies in harnessing the power of emerging technologies to solve complex challenges, ensuring products meet and exceed market demands.
 
-## About Me
+# About Me
 - 👋 Hi, I’m @mainul098
 - 👀 I’m interested in Everything related to Software Development
 - 🌱 I’m currently learning many things; every day is a learning opportunity.
@@ -29,7 +29,7 @@ With nearly a decade in software engineering, I have a proven record of developi
 - 📫 I am just one mail away - mainul098@gmail.com
 - 🔧 Tools - VSCode, Insomnia, Docker, and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac.
 
-## Where to find me
+# Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainul098/)
 
 <!---
